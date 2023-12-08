@@ -6,6 +6,7 @@ logs/
 **/.DS_Store
 .user.yml
 venv/
+venv2/
 env/
 **/*.duckdb
 **/*.duckdb.wal
